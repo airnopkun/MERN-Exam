@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+#large-container {
+    display: flex;
+    justify-content: center;
+}
+.columns {
+    text-align: start;
+    width: 50%;
+}

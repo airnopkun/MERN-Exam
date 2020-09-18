@@ -1,0 +1,9 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: whitesmoke;
+}
+h1{
+    margin: 0;
+}
